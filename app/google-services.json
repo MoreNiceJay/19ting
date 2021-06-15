@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809879808496",
+    "project_id": "ting-dc921",
+    "storage_bucket": "ting-dc921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809879808496:android:001a8636f96fdc4ee65535",
+        "android_client_info": {
+          "package_name": "kmc.kr.co.a.a19ting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809879808496-l7tkit2u99f9fkboasdjaasg0rlls85c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1yhsUbRvXHYbeYkQY5ZJmFCdWUD6CGzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809879808496-l7tkit2u99f9fkboasdjaasg0rlls85c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
